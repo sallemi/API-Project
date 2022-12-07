@@ -4,7 +4,7 @@
  - Cypress
  - Javascript
  - Node
- - Current weather data API : https://openweathermap.org/current?fbclid=IwAR1rMFunpg5EIFlg27ud5bWJzgeA2fVOb88KxLTlbGZrvSc27FIkOmjpIJI#:~:text=or%20HTML%20format.-,Call%20current%20weather%20data,-How%20to%20make
+ - Current weather data API : https://openweathermap.org/current?fbclid=IwAR1rMFunpg5EIFlg27ud5bWJzgeA2fVOb88KxLTlbGZrvSc27FIkOmjpIJI#name
 
   # Comment démarrer le projet
  - Installer la version 8.5.0 de npm.
